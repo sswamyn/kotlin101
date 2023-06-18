@@ -43,4 +43,4 @@ fun main(args: Array<String>) {
     // Creating an object of Person class
     val person3 = Person()
     person3.printPersonDetails()
-}
+ }
